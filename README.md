@@ -30,4 +30,5 @@ will take the sequences stored in example_proteins.fasta then output the normal 
 
 `pip install biopython`
 
-2. The `sys` python module, which usually ships with python installations.
+2. Python3 and the `sys` python module, which usually ships with python installations.
+
