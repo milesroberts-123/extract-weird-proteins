@@ -26,3 +26,8 @@ will take the sequences stored in example_proteins.fasta then output the normal 
 
 ## DEPENDENCIES
 
+1. Biopython - Installation instructions [here](https://biopython.org/wiki/Download). Usually you just type:
+
+`pip install biopython`
+
+2. The `sys` python module, which usually ships with python installations.
